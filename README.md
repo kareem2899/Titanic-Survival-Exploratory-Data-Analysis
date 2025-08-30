@@ -97,12 +97,8 @@ Install dependencies:
 
 pip install pandas numpy matplotlib
 
-▶️ How to Run
 
-Clone the repository:
 
-git clone https://github.com/yourusername/titanic-eda.git
-cd titanic-eda
 
 
 Launch Jupyter Notebook:
